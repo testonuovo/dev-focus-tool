@@ -5,13 +5,6 @@ https://testonuovo.github.io/dev-focus-tool/
 Minimal deep work timer for developers.
 # ⚡ Dev Focus Tool
 
-🔗 **Live Demo:**  
- https://testonuovo.github.io/dev-focus-tool/
-
-Minimal deep work timer for developers.
-# ⚡ Dev Focus Tool
-
-Minimal deep work timer for developers.
 
 ## Features
 - 25 minute focus timer
